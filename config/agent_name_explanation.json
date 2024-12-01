@@ -1,0 +1,18 @@
+{
+    "Allergies": "Any known allergies the patient has to medications, foods, or environmental factors.",
+    "Major Surgical or Invasive Procedure": "Significant surgeries or procedures the patient has undergone during their hospitalization.",
+    "Brief Hospital Course": "A summary of the patient’s condition and treatment during their hospital stay.",
+    "Chief Complaint": "The primary issue or symptom that brought the patient to seek medical attention.",
+    "Discharge Diagnosis": "The final diagnosis or diagnoses that are made upon discharge from the hospital.",
+    "Past Medical History": "A record of the patient’s previous medical conditions or surgeries prior to the current hospitalization.",
+    "Discharge Condition": "The patient’s health status at the time of discharge (e.g., stable, improving, etc.).",
+    "History of Present Illness": "A detailed description of the current health issue, including symptoms, duration, and progression.",
+    "Physical Exam": "A summary of the findings from the physical examination performed during hospitalization.",
+    "Social History": "Information about the patient’s lifestyle, such as smoking, alcohol use, occupation, and living situation.",
+    "Pertinent Results": "Key laboratory, radiology, or other diagnostic test results that are relevant to the patient’s condition.",
+    "Discharge Instructions": "Guidance provided to the patient regarding self-care, lifestyle modifications, and follow-up care after discharge.",
+    "Medications on Admission": "A list of medications the patient was taking when they were admitted to the hospital.",
+    "Followup Instructions": "Recommendations for follow-up visits or additional care needed after discharge.",
+    "Family History": "A record of medical conditions that are common in the patient’s family, which may be relevant to their health.",
+    "Discharge Medications": "Medications prescribed to the patient at the time of discharge, including dosage and instructions."
+}

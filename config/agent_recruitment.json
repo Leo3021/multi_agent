@@ -1,0 +1,15 @@
+{
+    "Brief Hospital Course": 10,
+    "Discharge Diagnosis": 10,
+    "Discharge Condition": 10,
+    "Social History": 10,
+    "Discharge Instructions": 10,
+    "Followup Instructions": 10,
+    "Pertinent Results": 5,
+    "Discharge Medications": 5,
+    "Major Surgical or Invasive Procedure": 4,
+    "History of Present Illness": 2,
+    "Physical Exam": 2,
+    "Chief Complaint": 1,
+    "Past Medical History": 1
+}
